@@ -1,6 +1,6 @@
 # Hi, I'm Sushyam 👋
  
-I'm a Full Stack Software Engineer completing my Master of Engineering in System Design (AI/ML) at the University of Waterloo. My background spans software development, AI systems, and IoT hardware — I enjoy building things that work well and solve real problems.
+I'm a Full Stack Software Engineer completing my Master of Engineering in System Design (AI/ML) at the University of Waterloo. My background spans software development, AI systems, and IoT hardware, I enjoy building things that work well and solve real problems.
  
 ---
  
@@ -56,7 +56,7 @@ Full-stack AI chatbot with real-time multi-turn conversations, context tracking,
  
 ---
  
-### 🌤 [HorusCast – Weather & Trail Planning App](https://github.com/SushyamNagallapati/NASA-HACKATHON)
+### 🌤 [HorusCast - Weather & Trail Planning App](https://github.com/SushyamNagallapati/NASA-HACKATHON)
 > JavaScript · Node.js · Express.js · Mapbox GL JS · NASA POWER API
  
 Full-stack geospatial web app that combines hyper-local weather data and trail discovery using OpenStreetMap and NASA climate datasets.
