@@ -1,6 +1,7 @@
-# Hi, I'm Sushyam 👋
- 
-I'm a Full Stack Software Engineer completing my Master of Engineering in System Design (AI/ML) at the University of Waterloo. My background spans software development, AI systems, and IoT hardware, I enjoy building things that work well and solve real problems.
+# Hi There 👋, This is Sushyam Nagallapati
+
+🎓 Master's student in System Design Engineering @ University of Waterloo
+🌟 Building intelligent systems with LLMs, RAG, and Full-Stack web technologies
  
 ---
  
