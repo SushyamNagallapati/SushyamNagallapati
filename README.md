@@ -1,6 +1,7 @@
 # Hi There 👋, This is Sushyam Nagallapati
 
 🎓 Master's student in System Design Engineering @ University of Waterloo
+
 🌟 Building intelligent systems with LLMs, RAG, and Full-Stack web technologies
  
 ---
