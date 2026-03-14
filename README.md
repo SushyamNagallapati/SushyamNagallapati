@@ -1,4 +1,4 @@
-# Hi There 👋, This is Sushyam Nagallapati
+# Hi There 👋 This is Sushyam Nagallapati
 
 🎓 Master's student in System Design Engineering @ University of Waterloo
 
