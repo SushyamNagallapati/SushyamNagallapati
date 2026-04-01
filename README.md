@@ -63,7 +63,7 @@ Full-stack geospatial web app that combines hyper-local weather data and trail d
  
 ---
 
-### 🌤 [Link List - Chrome Extension](https://github.com/SushyamNagallapati/Link-List-Chrome-Extension)
+### 🌐 [Link List - Chrome Extension](https://github.com/SushyamNagallapati/Link-List-Chrome-Extension)
 
 Built a Chrome Extension to save and manage important links without cluttering bookmarks. Used the Chrome Tabs API to capture the current tab's URL with one click. Stored data locally using `localStorage` so leads persist across sessions
 
