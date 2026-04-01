@@ -77,6 +77,7 @@ React frontend with real-time movie search, favorites management, and reusable c
 ---
  
 ## 📬 Get in Touch
+> JavaScript · Chrome Tabs API · localStorage · HTML · CSS
  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://sushyam-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/sushyamnagallapati)
