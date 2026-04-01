@@ -62,6 +62,12 @@ Full-stack AI chatbot with real-time multi-turn conversations, context tracking,
 Full-stack geospatial web app that combines hyper-local weather data and trail discovery using OpenStreetMap and NASA climate datasets.
  
 ---
+
+### 🌤 [Link List - Chrome Extension](https://github.com/SushyamNagallapati/Link-List-Chrome-Extension)
+
+Built a Chrome Extension to save and manage important links without cluttering bookmarks. Used the Chrome Tabs API to capture the current tab's URL with one click. Stored data locally using `localStorage` so leads persist across sessions
+
+---
  
 ### 🎬 [Movie Search Web Application](https://github.com/SushyamNagallapati/Movie-Application)
 > JavaScript · React.js · REST API
