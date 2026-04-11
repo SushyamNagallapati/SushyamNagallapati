@@ -63,35 +63,35 @@ Full-stack AI chatbot with real-time multi-turn conversations, context tracking,
 
 ---
 
-### 🚗 Autonomous Overtaking with SAC-MPC and Vision-Based Perception
+### 🚗 [Autonomous Overtaking with SAC-MPC and Vision-Based Perception]
 > Python · Soft Actor-Critic (SAC) · Model Predictive Control (MPC) · Deep Reinforcement Learning · Computer Vision
 
 Hybrid autonomous driving system combining Soft Actor-Critic reinforcement learning for decision-making under uncertain traffic conditions with Model Predictive Control for trajectory optimization. Developed a vision-based perception module for lane boundary detection and vehicle recognition.
 
 ---
 
-### 🗺 Path Planning with Classical, ML, and Reinforcement Learning Methods
+### 🗺 [Path Planning with Classical, ML, and Reinforcement Learning Methods](https://github.com/SushyamNagallapati/path-planning-cnn))
 > Python · Q-learning · Deep Reinforcement Learning · A* · Dijkstra · BFS · Supervised Learning
 
 Comparative framework evaluating classical search algorithms, supervised learning models, and reinforcement learning agents for autonomous path planning. Analyzed trade-offs between algorithmic optimality and learning-based adaptability across multiple environment configurations.
 
 ---
 
-### ⚙️ IoT-Based Control of Machining Process
+### ⚙️ [IoT-Based Control of Machining Process](https://github.com/SushyamNagallapati/IOT-BASED-CONTROL-OF-MACHINING-PROCESS-USING-PLC-AND-ESP32)
 > ESP32 · Delta PLC · Wi-Fi · Relay Modules · Sensor Integration
 
 IoT-based remote monitoring and control system integrating a Delta PLC with an ESP32 microcontroller over Wi-Fi for real-time machining data acquisition and process control. Implemented hardware interfacing between sensors, relay modules, and the PLC control system.
 
 ---
 
-### 🌤 [HorusCast – Weather & Trail Planning App](https://github.com/SushyamNagallapati/NASA-HACKATHON)
+### 🌤 [HorusCast: Weather & Trail Planning App](https://github.com/SushyamNagallapati/NASA-HACKATHON)
 > JavaScript · Node.js · Express.js · Mapbox GL JS · OpenStreetMap API · NASA POWER API
 
 Full-stack geospatial web app for outdoor activity planning. Aggregates three external REST APIs — Mapbox for maps and geocoding, OpenStreetMap Overpass API for trail discovery, and NASA POWER API for hyper-local climate data — into a unified frontend experience.
 
 ---
 
-### 🌐 [Link List – Chrome Extension](https://github.com/SushyamNagallapati/Link-List-Chrome-Extension)
+### 🌐 [Link List Chrome Extension](https://github.com/SushyamNagallapati/Link-List-Chrome-Extension)
 > JavaScript · Chrome Tabs API · localStorage · HTML · CSS
 
 A Chrome Extension to save and manage important links without cluttering bookmarks. Uses the Chrome Tabs API to capture the current tab URL in one click, with localStorage for persistent data across sessions.
