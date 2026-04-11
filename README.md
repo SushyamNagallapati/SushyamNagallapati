@@ -105,15 +105,6 @@ React frontend with real-time movie search, favorites management, and reusable c
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SushyamNagallapati&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushyamNagallapati&layout=compact&theme=default&hide_border=true" height="150" />
-</p>
-
----
-
 ## 📬 Get in Touch
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://sushyam-portfolio.vercel.app)
