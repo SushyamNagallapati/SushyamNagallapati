@@ -63,7 +63,7 @@ Full-stack AI chatbot with real-time multi-turn conversations, context tracking,
 
 ---
 
-### 🚗 [Autonomous Overtaking with SAC-MPC and Vision-Based Perception]
+### 🚗 Autonomous Overtaking with SAC-MPC and Vision-Based Perception
 > Python · Soft Actor-Critic (SAC) · Model Predictive Control (MPC) · Deep Reinforcement Learning · Computer Vision
 
 Hybrid autonomous driving system combining Soft Actor-Critic reinforcement learning for decision-making under uncertain traffic conditions with Model Predictive Control for trajectory optimization. Developed a vision-based perception module for lane boundary detection and vehicle recognition.
