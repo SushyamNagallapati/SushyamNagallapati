@@ -1,45 +1,56 @@
 # Hi, I'm Sushyam Nagallapati 👋
 
-🎓 Master of Engineering in System Design (AI/ML) @ University of Waterloo  
-🌟 Building intelligent systems with LLMs, RAG, and full-stack web technologies  
+🎓 Master of Engineering in Systems Design Engineering (AI/ML) @ University of Waterloo
+🛠 Mechatronics undergrad, so I follow problems all the way down: frontend, backend, firmware, hardware
+🌟 Building multi-agent AI systems, data pipelines, and full-stack web apps
 📍 Waterloo, ON, Canada
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**  
+**Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
-**AI / ML**  
+**AI / ML**
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF6B35?style=flat&logoColor=white)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-0081CB?style=flat&logoColor=white)
 
-**Databases**  
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Cloud & DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat&logoColor=white)
 
-**IoT / Hardware**  
+**IoT / Hardware**
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
 ![PLC](https://img.shields.io/badge/Delta_PLC-003087?style=flat&logoColor=white)
 
-**Tools**  
+**Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
@@ -56,24 +67,10 @@ A modular multi-agent AI system that resolves health insurance claim queries usi
 
 ---
 
-### 💬 [AI-Powered SaaS Chatbot](https://github.com/SushyamNagallapati/Custom-ChatBot)
-> TypeScript · Node.js · Express.js · React · Tailwind CSS · OpenAI API
+### 📈 [Market Pipeline](https://github.com/SushyamNagallapati/market-pipeline)
+> Python · PostgreSQL · dbt · Apache Airflow · Docker · Terraform · Kubernetes · Azure · GitHub Actions
 
-Full-stack AI chatbot with real-time multi-turn conversations, context tracking, and a clean layered backend architecture (route → controller → service → repository). Built with a responsive React interface including typing indicators and markdown rendering.
-
----
-
-### 🚗 Autonomous Overtaking with SAC-MPC and Vision-Based Perception
-> Python · Soft Actor-Critic (SAC) · Model Predictive Control (MPC) · Deep Reinforcement Learning · Computer Vision
-
-Hybrid autonomous driving system combining Soft Actor-Critic reinforcement learning for decision-making under uncertain traffic conditions with Model Predictive Control for trajectory optimization. Developed a vision-based perception module for lane boundary detection and vehicle recognition.
-
----
-
-### 🗺 [Path Planning with Classical, ML, and Reinforcement Learning Methods](https://github.com/SushyamNagallapati/path-planning-cnn))
-> Python · Q-learning · Deep Reinforcement Learning · A* · Dijkstra · BFS · Supervised Learning
-
-Comparative framework evaluating classical search algorithms, supervised learning models, and reinforcement learning agents for autonomous path planning. Analyzed trade-offs between algorithmic optimality and learning-based adaptability across multiple environment configurations.
+End-to-end data pipeline that pulls daily stock prices and news headlines, loads them into a Postgres star schema, transforms with dbt, and serves a Streamlit dashboard. Orchestrated with Airflow, containerized with Docker, defined as infrastructure-as-code with Terraform for Azure, and gated by CI/CD running data quality tests on every push.
 
 ---
 
@@ -84,10 +81,31 @@ IoT-based remote monitoring and control system integrating a Delta PLC with an E
 
 ---
 
+### 💬 [AI-Powered SaaS Chatbot](https://github.com/SushyamNagallapati/Custom-ChatBot)
+> TypeScript · Node.js · Express.js · React · Tailwind CSS · OpenAI API
+
+Full-stack AI chatbot with real-time multi-turn conversations, context tracking, and a clean layered backend architecture (route → controller → service → repository). Built with a responsive React interface including typing indicators and markdown rendering.
+
+---
+
 ### 🌤 [HorusCast: Weather & Trail Planning App](https://github.com/SushyamNagallapati/NASA-HACKATHON)
 > JavaScript · Node.js · Express.js · Mapbox GL JS · OpenStreetMap API · NASA POWER API
 
-Full-stack geospatial web app for outdoor activity planning. Aggregates three external REST APIs — Mapbox for maps and geocoding, OpenStreetMap Overpass API for trail discovery, and NASA POWER API for hyper-local climate data — into a unified frontend experience.
+Full-stack geospatial web app for outdoor activity planning. Aggregates three external REST APIs (Mapbox for maps and geocoding, OpenStreetMap Overpass API for trail discovery, and NASA POWER API for hyper-local climate data) into a unified frontend experience.
+
+---
+
+### 🚗 Autonomous Overtaking with SAC-MPC and Vision-Based Perception
+> Python · Soft Actor-Critic (SAC) · Model Predictive Control (MPC) · Deep Reinforcement Learning · Computer Vision
+
+Hybrid autonomous driving system combining Soft Actor-Critic reinforcement learning for decision-making under uncertain traffic conditions with Model Predictive Control for trajectory optimization. Developed a vision-based perception module for lane boundary detection and vehicle recognition.
+
+---
+
+### 🗺 [Path Planning with Classical, ML, and Reinforcement Learning Methods](https://github.com/SushyamNagallapati/path-planning-cnn)
+> Python · Q-learning · Deep Reinforcement Learning · A* · Dijkstra · BFS · Supervised Learning
+
+Comparative framework evaluating classical search algorithms, supervised learning models, and reinforcement learning agents for autonomous path planning. Analyzed trade-offs between algorithmic optimality and learning-based adaptability across multiple environment configurations.
 
 ---
 
