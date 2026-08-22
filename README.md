@@ -62,7 +62,7 @@ An end-to-end financial data engineering platform on Azure that automates ingest
 
 ---
 
-### 🚗 Autonomous Overtaking with SAC-MPC
+### 🚗 [Autonomous Overtaking with SAC-MPC](https://github.com/SushyamNagallapati/Autonomous-Overtaking-with-SAC-MPC)
 > Python · Reinforcement Learning · Model Predictive Control · Computer Vision
 
 A hybrid autonomous driving system combining Soft Actor-Critic reinforcement learning with Model Predictive Control and vision-based perception to perform safe, real-time overtaking maneuvers.
