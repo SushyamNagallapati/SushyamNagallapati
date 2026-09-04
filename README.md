@@ -1,13 +1,13 @@
 # Hi, I'm Sushyam Nagallapati 👋
 
 ☁️ DevOps Engineer @ Doane Grant Thornton LLP, designing Azure/AWS cloud infrastructure and Kubernetes platforms
--
+
 🎓 Master of Engineering in Systems Design Engineering @ University of Waterloo (part-time)
--
+
 🛠 Mechatronics undergrad background, so I follow problems all the way down: infrastructure, backend, frontend, firmware
--
+
 🌟 Building cloud platforms, CI/CD pipelines, and automation with Azure, AWS, Kubernetes, and Terraform
--
+
 📍 Greater Toronto Area, Canada
 
 ---
